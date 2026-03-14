@@ -7,7 +7,7 @@ export const Footer = () => {
     <div className='footer'>
         <div className="footer-top">
             <div className="footer-top-left">
-                <h1>Neethu</h1>
+                <h1>NK</h1>
                 <p>
                   Thank you for visiting my portfolio. If you’d like to collaborate 
                   or have any questions, feel free to get in touch.
