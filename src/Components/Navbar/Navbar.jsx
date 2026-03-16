@@ -18,7 +18,7 @@ const Navbar = () => {
 
   return (
     <div className='navbar'>
-        <h1>NK</h1>
+        <h1>N</h1>
           {/* <img src={theme_pattern} alt="" />   */}
          
          <img src={menu_open} onClick={openMenu} alt="" className='nav-mob-open'/>
